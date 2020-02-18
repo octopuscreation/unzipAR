@@ -14,7 +14,7 @@ All the configuration will be done with the 2 configurations files 'BundleConfig
 
 Location: Resources/BundleConfig.asset
 
-![alt text](https://github.com/nyudeb/unzipAR_bundleGenerator/blob/master/git-images/bundleConfig.png)
+![alt text](https://github.com/octopuscreation/unzipAR_bundleGenerator/blob/master/git-images/bundleConfig.png)
 
 This file is used to know:
 
@@ -34,7 +34,7 @@ This configuration file is used only to generate the json file for the character
 
 /!\ This file need to exist and to be added in your bundle folder in order to have a 'valid' bundle to be used in the unzipAR application.
 
-![alt text](https://github.com/nyudeb/unzipAR_bundleGenerator/blob/master/git-images/character_config_skeleton_example.png)
+![alt text](https://github.com/octopuscreation/unzipAR_bundleGenerator/blob/master/git-images/character_config_skeleton_example.png)
 
 1. <b>Prefab</b>: Your model prefab
 
@@ -48,7 +48,7 @@ This configuration file is used only to generate the json file for the character
 
 Now that we have our configuration files ready and our model folder in 'Characters' folder.
 
-![alt text](https://github.com/nyudeb/unzipAR_bundleGenerator/blob/master/git-images/assetBundle_dropdown.png)
+![alt text](https://github.com/octopuscreation/unzipAR_bundleGenerator/blob/master/git-images/assetBundle_dropdown.png)
 
 A. <b>Generate configuration file</b>:
   Normally, it will be added in your character folder, otherwise put it in.
