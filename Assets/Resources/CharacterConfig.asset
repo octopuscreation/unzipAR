@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0eff7a529b454ba4fa6c53ad0006d958, type: 3}
+  m_Name: CharacterConfig
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1349150361055734, guid: dca8e056b77d49c4aafe4dbcc2bab713, type: 3}
+  animationsInfos:
+  - name: Attack
+    sprite: {fileID: 21300000, guid: be24da40d342d1a4ab3909c05701f802, type: 3}
+    audioClip: {fileID: 0}
+  - name: Fall
+    sprite: {fileID: 21300000, guid: 43cbb787eae75074986e2eb71707a362, type: 3}
+    audioClip: {fileID: 0}
+  - name: Hit
+    sprite: {fileID: 21300000, guid: 727530be61ff9bd47b83ef1140d15113, type: 3}
+    audioClip: {fileID: 0}
+  - name: Idle
+    sprite: {fileID: 21300000, guid: 1f0f98091c42c8a4fbf287eef09fa49f, type: 3}
+    audioClip: {fileID: 0}

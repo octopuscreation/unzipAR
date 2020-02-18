@@ -1,0 +1,25 @@
+{
+	"Prefab":"skeleton_prefab.prefab",
+	"Animations":[
+		{
+			"name":"Attack",
+			"image":"anim_0",
+			"audio":""
+		},
+		{
+			"name":"Fall",
+			"image":"anim_1",
+			"audio":""
+		},
+		{
+			"name":"Hit",
+			"image":"anim_2",
+			"audio":""
+		},
+		{
+			"name":"Idle",
+			"image":"anim_3",
+			"audio":""
+		}
+	]
+}

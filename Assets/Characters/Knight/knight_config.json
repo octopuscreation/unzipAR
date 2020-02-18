@@ -1,0 +1,15 @@
+{
+	"Prefab":"knight_prefab.prefab",
+	"Animations":[
+		{
+			"name":"Idle 00",
+			"image":"",
+			"audio":""
+		},
+		{
+			"name":"Idle 01",
+			"image":"",
+			"audio":""
+		}
+	]
+}

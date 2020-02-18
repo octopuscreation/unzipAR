@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3587800129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99fed647b3fe8cf1b70208c5b2a58d2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6487caedfbb5ed092c7d8ffd2e19c4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/Skeleton/animation/icons/anim_0.jpg
+- Assets/Characters/Skeleton/skeleton_config.json
+- Assets/Characters/Skeleton/animation/Walk.FBX
+- Assets/Characters/Skeleton/material/Shield_MAT.mat
+- Assets/Characters/Skeleton/animation/Hit.FBX
+- Assets/Characters/Skeleton/mesh/SKELETON.FBX
+- Assets/Characters/Skeleton/animation/SkeletonAC.controller
+- Assets/Characters/Skeleton/Textures/Shield.png
+- Assets/Characters/Skeleton/prefab/skeleton_prefab.prefab
+- Assets/Characters/Skeleton/mesh/SWORD.FBX
+- Assets/Characters/Skeleton/animation/icons/anim_1.jpg
+- Assets/Characters/Skeleton/Textures/Skull.png
+- Assets/Characters/Skeleton/animation/icons/anim_3.jpg
+- Assets/Characters/Skeleton/Textures/Sword.png
+- Assets/Characters/Skeleton/material/skeleton_MAT.mat
+- Assets/Characters/Skeleton/animation/Attack.FBX
+- Assets/Characters/Skeleton/material/Sword_MAT.mat
+- Assets/Characters/Skeleton/animation/Fall.FBX
+- Assets/Characters/Skeleton/animation/icons/anim_2.jpg
+- Assets/Characters/Skeleton/animation/Idle.FBX
+- Assets/Characters/Skeleton/mesh/SHIELD.FBX
+Dependencies: []

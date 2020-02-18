@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2662433753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7de35c61050ee1eac88973a772fb46b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6487caedfbb5ed092c7d8ffd2e19c4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Characters/Knight/models/textures/knight1Normal.png
+- Assets/Characters/Knight/models/textures/weaponsNormal.png
+- Assets/Characters/Knight/prefabs/knight_prefab.prefab
+- Assets/Characters/Knight/models/Materials/weaponsColor.mat
+- Assets/Characters/Knight/models/Materials/clothColor.mat
+- Assets/Characters/Knight/models/textures/weaponsSpecular.png
+- Assets/Characters/Knight/models/textures/knight1Color.png
+- Assets/Characters/Knight/models/textures/clothSpecular.png
+- Assets/Characters/Knight/animations/Idle 00.fbx
+- Assets/Characters/Knight/shaders/doublesidedshader.shader
+- Assets/Characters/Knight/models/textures/clothColor.png
+- Assets/Characters/Knight/models/Materials/knight1Color.mat
+- Assets/Characters/Knight/prefabs/dagger.prefab
+- Assets/Characters/Knight/animations/Idle 01.fbx
+- Assets/Characters/Knight/models/knight.fbx
+- Assets/Characters/Knight/Knight_animator.controller
+- Assets/Characters/Knight/prefabs/Maul.prefab
+- Assets/Characters/Knight/knight_config.json
+- Assets/Characters/Knight/animations/T-Pose.fbx
+- Assets/Characters/Knight/models/textures/weaponsColor.png
+- Assets/Characters/Knight/models/textures/clothNormal.png
+- Assets/Characters/Knight/models/textures/knight1Specular.png
+Dependencies: []
