@@ -60,3 +60,8 @@ It will tell you if your bundle is valid for unzipAR application.
 ## Test
 
 There is a script 'BundleLoader' in the scene 'bundleGenerator'. When you hit 'Play' it will load your generated bundle in the scene. (bundle target in the 'BundleConfig' file in 'Characters_bundles/your_bundle_name/' folder.
+
+## IMPORTANT
+
+On iOS, Sometimes your bundles won't charge because iOS has a limit on the memory usage of your phone. 
+I therefore advise you to make bundles with a maximum size of 100-200 MB depending on the memory of your phone. This could happen only if you try to load the 3D model from your phone, The other technique is to put your bundle on a server and download it from a url. Memory usage is much lower
