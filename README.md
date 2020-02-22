@@ -66,6 +66,6 @@ There is a script 'BundleLoader' in the scene 'bundleGenerator'. When you hit 'P
 On iOS, Sometimes your bundles won't charge because iOS has a limit on the memory usage of your phone. 
 I therefore advise you to make bundles with a maximum size of 100-200 MB depending on the memory of your phone. This could happen only if you try to load the 3D model from your phone, The other technique is to put your bundle on a server and download it from a url. Memory usage is much lower
 
-### Website: http://octopuscreation.com/augmented-reality.html
+### Website: http://octopuscreation.com/unzipAR.html
 
 ### Contact: contact@octopuscreation.com
